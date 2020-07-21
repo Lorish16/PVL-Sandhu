@@ -1,6 +1,6 @@
-PVL- Sandhu Codebuch										
+# PVL- Sandhu Codebuch										
 										
-EDGE - Attribute										
+## EDGE - Attribute										
 										
 id										
 (eindeutige Codierung des Knoten)										
@@ -29,26 +29,26 @@ Intensität der Beziehung; bzw. Einfluss
 2 = Stimmrecht / aktives Mandat										
 3 = aktives Mandat / Ministeramt										
 										
-NODE-Attribute										
+## NODE-Attribute										
 										
-id										
+# id										
 Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall sind alle Namen abgekürzt mit drei oder vier Buchstaben zu sehen.										
 										
-name										
+# name										
 Die Namen der Mitglieder der Kohlekommission.										
 										
-sex										
+# sex										
 Bitte geben Sie ihr Geschlecht an:										
 1 = weiblich										
 2 = männlich										
 3 = divers										
 										
-type										
+# type										
 Haben wir es mit einer Person oder einer Organisation zu tun?										
 0 = Person										
 1 = Organisation										
 										
-party										
+# party										
 Zu welcher politischen Partei gehört die Person?										
 1=CDU										
 2=CSU										
@@ -56,71 +56,70 @@ Zu welcher politischen Partei gehört die Person?
 4=Gruene										
 5=FDP										
 										
-age										
+# age										
 Gibt das Alter an:										
 1 = bis 39 Jahre										
 2 = 40 bis 49 Jahre										
 3 = 50 bis 59 Jahre										
 4 = 60 und älter										
 										
-representation										
-										
+# representation										
 bezieht sich auf die Funktion innerhalb der Kommission:										
 										
 A = Politik										
 										
-B= Wirtschaft										
+B = Wirtschaft										
 										
-C= Gewerkschaft										
+C = Gewerkschaft										
 										
-D= Umwelt										
+D = Umwelt										
 										
-E= Regionen										
+E = Regionen										
 										
-F= Wissenschaft										
+F = Wissenschaft										
 										
-Position										
+# Position										
 										
 Bezieht sich auf den Einfluss in der Kommission										
 										
-1= kein Stimmrecht										
+1 = kein Stimmrecht										
 										
-2= Mitglied										
+2 = Mitglied										
 										
-3= Vorsitz										
+3 = Vorsitz										
 										
 State										
 										
 Bezieht sich auf das Herkunfts-Bundesland der Kommissionsmitglieder										
 										
-BB= Brandenburg										
+BB = Brandenburg										
 										
-BW= Baden-Württemberg										
+BW = Baden-Württemberg										
 										
-BA= Bayern										
+BA = Bayern										
 										
-BE= Berlin										
+BE = Berlin										
 										
-HB= Bremen										
+HB = Bremen										
 										
-HH= Hamburg										
+HH = Hamburg										
 										
-HE= Hessen										
+HE = Hessen										
 										
-MV= Mecklenburg Vorpommern										
+MV = Mecklenburg Vorpommern										
 										
-NI= Niedersachsen										
+NI = Niedersachsen										
 										
-NW= Nordrhein-Westfalen										
+NW = Nordrhein-Westfalen										
 										
-RP= Rheinland-Pfalz										
+RP = Rheinland-Pfalz										
 										
-SL= Saarland										
+SL = Saarland										
 										
-SN= Sachsen										
+SN = Sachsen										
 										
-ST= Sachsen-Anhalt										
+ST = Sachsen-Anhalt										
 										
-SH= Schleswig-Holstein										
+SH = Schleswig-Holstein										
 										
-TH= Thüringen										
+TH = Thüringen										
